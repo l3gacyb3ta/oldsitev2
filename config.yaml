@@ -1,0 +1,159 @@
+baseURL: "https://l3gacy.tk"
+title: l3gacy's b3ta
+paginate: 5
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: false
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+
+minify:
+    disableXML: true
+    # minifyOutput: true
+
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        menu:
+            main:
+                - name: Postography
+                  url: archives
+                  weight: 11
+                - name: About me
+                  url: aboutme
+                  weight: 10
+                - name: Search
+                  url: search/
+                  weight: 9
+                - name: Tags
+                  url: tags/
+                  weight: 10
+
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    description: "l3gacyb3ta's blog/portfolio"
+    author: l3gacy
+    # author: ["Me", "You"] # multiple authors
+
+    defaultTheme: dark
+    # disableThemeToggle: true
+    ShowShareButtons: true
+    ShowReadingTime: true
+    disableSpecial1stPost: true
+    displayFullLangName: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowToc: true
+    # comments: false
+    images: ["papermod-cover.png"]
+
+    profileMode:
+    # TODO : SET THIS UP ----------------------------------------------------
+        enabled: true
+        title: Raleigh Wise
+        subtitle: "Hello! I’m Raleigh (he/they), I do computer stuff!"
+        imageUrl: "/images/avatar.png"
+        imageTitle: avatar
+        # imageWidth: 120
+        # imageHeight: 120
+        buttons:
+            - name: Blog
+              url: posts
+            - name: About me
+              url: aboutme
+
+    homeInfoParams:
+        Title: "l3gacyb3ta"
+        Content: >
+                    Hello! I’m Raleigh (he/they), I do computer stuff!
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/l3gacyb3ta"
+        
+        - name: keybase
+          url: "https://keybase.io/l3gacyb3ta"
+
+        - name: RSS
+          url: "index.xml"
+
+    # label:
+    #     text: "Home"
+    #     icon: icon.png
+    #     iconHeight: 35
+
+    # analytics:
+    #     google:
+    #         SiteVerificationTag: "XYZabc"
+
+    assets:
+        favicon: "/images/favicon.ico"
+        favicon16x16: "/images/favicon-16x16.png"
+        favicon32x32: "/images/favicon-32x32.png"
+        apple_touch_icon: "/images/apple-touch-icon.png"
+        safari_pinned_tab: "/images/safari-pinned-tab.svg"
+
+    # cover:
+    #     hidden: true # hide everywhere but not in structured data
+    #     hiddenInList: true # hide on list pages and home
+    #     hiddenInSingle: true # hide on single page
+
+    # fuseOpts:
+    #     isCaseSensitive: false
+    #     shouldSort: true
+    #     location: 0
+    #     distance: 1000
+    #     threshold: 0.4
+    #     minMatchCharLength: 0
+    #     keys: ["title", "permalink", "summary", "content"]
+
+taxonomies:
+    tag: tags
+    series: series
+
+markup:
+     goldmark:
+        renderer:
+            unsafe: true
+#     highlight:
+#         # anchorLineNos: true
+#         codeFences: true
+#         guessSyntax: true
+#         lineNos: true
+#         # noClasses: false
+#         style: monokai
+
+privacy:
+    vimeo:
+        disabled: false
+        simple: true
+
+    twitter:
+        disabled: false
+        enableDNT: true
+        simple: true
+
+    instagram:
+        disabled: true
+        simple: true
+
+    youtube:
+        disabled: false
+        privacyEnhanced: true
+
+services:
+    instagram:
+        disableInlineCSS: true
+    twitter:
+        disableInlineCSS: true
