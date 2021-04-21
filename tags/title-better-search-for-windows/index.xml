@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>title: better search for windows on l3gacy&#39;s b3ta</title>
+    <link>https://l3gacy.tk/tags/title-better-search-for-windows/</link>
+    <description>Recent content in title: better search for windows on l3gacy&#39;s b3ta</description>
+    <image>
+      <url>https://l3gacy.tk/papermod-cover.png</url>
+      <link>https://l3gacy.tk/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://l3gacy.tk/tags/title-better-search-for-windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>better search for windows</title>
+      <link>https://l3gacy.tk/posts/bettersearchforwindows/</link>
+      <pubDate>Wed, 20 Jan 2021 22:49:27 +0000</pubDate>
+      
+      <guid>https://l3gacy.tk/posts/bettersearchforwindows/</guid>
+      <description>The Windows 10 search is slow and resource intensive. So I decided to build a new one!
+The new search engine uses a flask-sqlite backend, using a jinja html front end.
+It first indexes both of the drives and parses their files into the databases in a custom format
+Then the front-end does a SQL query on the database to find the files. After that the custom jinja templates do a HTML &amp;ldquo;render&amp;rdquo; with the data from the query and send it to you!</description>
+    </item>
+    
+  </channel>
+</rss>

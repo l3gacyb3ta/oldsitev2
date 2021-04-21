@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>title: Welcome! on l3gacy&#39;s b3ta</title>
+    <link>https://l3gacy.tk/tags/title-welcome/</link>
+    <description>Recent content in title: Welcome! on l3gacy&#39;s b3ta</description>
+    <image>
+      <url>https://l3gacy.tk/papermod-cover.png</url>
+      <link>https://l3gacy.tk/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://l3gacy.tk/tags/title-welcome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome!</title>
+      <link>https://l3gacy.tk/posts/welcome/</link>
+      <pubDate>Fri, 15 Jan 2021 01:33:51 +0000</pubDate>
+      
+      <guid>https://l3gacy.tk/posts/welcome/</guid>
+      <description>There&amp;rsquo;s not much here yet! But soon there will be!
+To check out the source code for this whole shabang, look for the blog repo in my GitHub! Link is in contacts.
+\-l3gacy
+Update: Old blog posts are now in!</description>
+    </item>
+    
+  </channel>
+</rss>
