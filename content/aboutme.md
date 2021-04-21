@@ -1,7 +1,7 @@
 ---
 title: about me
 date: 2021-04-13 20:12:54
-disableShare: false
+disableShare: true
 hideSummary: false
 
 ShowReadingTime: false
