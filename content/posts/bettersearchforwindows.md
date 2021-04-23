@@ -1,30 +1,27 @@
-
 ---
-title: "better search for windows"
-date: 2021-01-20 22:49:27
-# weight: 1
-# aliases: ["/"]
-tags: ["title: better search for windows"]
-author: "l3gacy"
-# author: ["Me", "You"] # multiple authors
+title: better search for windows
+date: 2021-01-20T22:49:27.000+00:00
+tags:
+- windows
+- search
+- Python
+- SQL
+- tinydb
+author: l3gacy
 showToc: true
 TocOpen: false
-draft: false
 hidemeta: false
 comments: false
-description: ""
-disableHLJS: false # to disable highlightjs
+description: A better search for Windows 10, the old one was slow.
+disableHLJS: false
 disableShare: false
 hideSummary: false
-
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-ShowToc: true # table of contents
+ShowToc: true
+
 ---
-
-
-
 The Windows 10 search is _slow_ and resource intensive.  So I decided to build a new one!  
 
 The new search engine uses a flask-sqlite backend, using a jinja html front end.  
