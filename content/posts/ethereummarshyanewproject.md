@@ -1,28 +1,25 @@
-
 ---
-title: "ethereum & marshy, a new project!"
-date: 2021-03-13 14:48:01
-# weight: 1
-# aliases: ["/"]
-tags: ["title: ethereum & marshy, a new project!"]
-author: "l3gacy"
-# author: ["Me", "You"] # multiple authors
+title: ethereum & marshy, a new project!
+date: 2021-03-13T14:48:01.000+00:00
+tags:
+- ethereum
+- solidity
+- marshy
+author: l3gacy
 showToc: true
 TocOpen: false
-draft: false
 hidemeta: false
 comments: false
-description: ""
-disableHLJS: false # to disable highlightjs
+description: ''
+disableHLJS: false
 disableShare: false
 hideSummary: false
-
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-ShowToc: true # table of contents
----
+ShowToc: true
 
+---
 So a while back I was asked by my dad, _"What does BitCoin have to do with these computer parts shortages?"_ Well I knew the basics of the blockchain idea, but I didn\'t know the specifics. So after a bit of googling I found out and that was that. Now a few days later I saw a video in my YouTube recommended feed: "Programming the blockchain with Ethereum!" or something like that. I then watched it and got sucked into a rabbit hole.
 
 
