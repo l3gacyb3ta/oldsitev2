@@ -62,7 +62,8 @@ params:
     # TODO : SET THIS UP ----------------------------------------------------
         enabled: true
         title: Raleigh Wise
-        subtitle: "Hello! I’m Raleigh (he/they), I do computer stuff!"
+        subtitle: "Hello! I’m Raleigh (he/they), I do backend and service development. <br>
+                    I am currently working on learning <strong><a href='https://crystal-lang.org'>Crystal</a></strong>, a modern and effient language."
         imageUrl: "/images/avatar.png"
         imageTitle: avatar
         # imageWidth: 120
@@ -76,7 +77,7 @@ params:
     homeInfoParams:
         Title: "l3gacyb3ta"
         Content: >
-                    Hello! I’m Raleigh (he/they), I do computer stuff!
+                    Hello! I’m Raleigh (he/they), I do backend and service development.
 
     socialIcons:
         - name: github
