@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>search on l3gacy&#39;s b3ta</title>
+    <link>https://l3gacy.tk/tags/search/</link>
+    <description>Recent content in search on l3gacy&#39;s b3ta</description>
+    <image>
+      <url>https://l3gacy.tk/papermod-cover.png</url>
+      <link>https://l3gacy.tk/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://l3gacy.tk/tags/search/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>better search for windows</title>
+      <link>https://l3gacy.tk/posts/bettersearchforwindows/</link>
+      <pubDate>Wed, 20 Jan 2021 22:49:27 +0000</pubDate>
+      
+      <guid>https://l3gacy.tk/posts/bettersearchforwindows/</guid>
+      <description>A better search for Windows 10, the old one was slow.</description>
+    </item>
+    
+  </channel>
+</rss>

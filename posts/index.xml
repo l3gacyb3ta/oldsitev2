@@ -64,10 +64,7 @@ I didn&amp;rsquo;t feel like messing with github actions again, as I hate that t
       <pubDate>Wed, 20 Jan 2021 22:49:27 +0000</pubDate>
       
       <guid>https://l3gacy.tk/posts/bettersearchforwindows/</guid>
-      <description>The Windows 10 search is slow and resource intensive. So I decided to build a new one!
-The new search engine uses a flask-sqlite backend, using a jinja html front end.
-It first indexes both of the drives and parses their files into the databases in a custom format
-Then the front-end does a SQL query on the database to find the files. After that the custom jinja templates do a HTML &amp;ldquo;render&amp;rdquo; with the data from the query and send it to you!</description>
+      <description>A better search for Windows 10, the old one was slow.</description>
     </item>
     
     <item>
