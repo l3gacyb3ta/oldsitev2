@@ -28,10 +28,10 @@ languages:
                   weight: 10
                 - name: Search
                   url: search/
+                  weight: -1
+                - name: Projects
+                  url: projects
                   weight: 9
-                - name: Tags
-                  url: tags/
-                  weight: 10
 
 
 outputs:
@@ -71,6 +71,8 @@ params:
         buttons:
             - name: Blog
               url: posts
+            - name: Projects
+              url: projects
             - name: About me
               url: aboutme
 
@@ -89,14 +91,6 @@ params:
         - name: RSS
           url: "index.xml"
 
-    # label:
-    #     text: "Home"
-    #     icon: icon.png
-    #     iconHeight: 35
-
-    # analytics:
-    #     google:
-    #         SiteVerificationTag: "XYZabc"
 
     assets:
         favicon: "/images/favicon.ico"
@@ -105,19 +99,6 @@ params:
         apple_touch_icon: "/images/apple-touch-icon.png"
         safari_pinned_tab: "/images/safari-pinned-tab.svg"
 
-    # cover:
-    #     hidden: true # hide everywhere but not in structured data
-    #     hiddenInList: true # hide on list pages and home
-    #     hiddenInSingle: true # hide on single page
-
-    # fuseOpts:
-    #     isCaseSensitive: false
-    #     shouldSort: true
-    #     location: 0
-    #     distance: 1000
-    #     threshold: 0.4
-    #     minMatchCharLength: 0
-    #     keys: ["title", "permalink", "summary", "content"]
 
 taxonomies:
     tag: tags
