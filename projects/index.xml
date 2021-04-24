@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on l3gacy&#39;s b3ta</title>
+    <link>https://l3gacy.tk/projects/</link>
+    <description>Recent content in Projects on l3gacy&#39;s b3ta</description>
+    <image>
+      <url>https://l3gacy.tk/papermod-cover.png</url>
+      <link>https://l3gacy.tk/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://l3gacy.tk/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>XKCD Explainer Button</title>
+      <link>https://l3gacy.tk/projects/xkcd-button/</link>
+      <pubDate>Fri, 23 Apr 2021 19:46:30 -0400</pubDate>
+      
+      <guid>https://l3gacy.tk/projects/xkcd-button/</guid>
+      <description>A silly little project to learn about extensions.</description>
+    </item>
+    
+  </channel>
+</rss>
