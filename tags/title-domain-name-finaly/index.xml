@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>title: &#39;domain name, finaly&#39; on l3gacy&#39;s b3ta</title>
-    <link>https://l3gacy.tk/tags/title-domain-name-finaly/</link>
-    <description>Recent content in title: &#39;domain name, finaly&#39; on l3gacy&#39;s b3ta</description>
+    <title>title: &#39;domain name, finaly&#39; on Raleigh Wise</title>
+    <link>https://raleighwi.se/tags/title-domain-name-finaly/</link>
+    <description>Recent content in title: &#39;domain name, finaly&#39; on Raleigh Wise</description>
     <image>
-      <url>https://l3gacy.tk/papermod-cover.png</url>
-      <link>https://l3gacy.tk/papermod-cover.png</link>
+      <url>https://raleighwi.se/papermod-cover.png</url>
+      <link>https://raleighwi.se/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://l3gacy.tk/tags/title-domain-name-finaly/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://raleighwi.se/tags/title-domain-name-finaly/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>domain name, finaly</title>
-      <link>https://l3gacy.tk/posts/domain-name-finaly/</link>
+      <link>https://raleighwi.se/posts/domain-name-finaly/</link>
       <pubDate>Wed, 14 Apr 2021 11:05:28 +0000</pubDate>
       
-      <guid>https://l3gacy.tk/posts/domain-name-finaly/</guid>
+      <guid>https://raleighwi.se/posts/domain-name-finaly/</guid>
       <description>So, I finally got l3gacy.tk linked to the github pages! The process was a bit confusing, probably because I&amp;rsquo;ve never done something like this before, but here&amp;rsquo;s the steps I took.
 First I got a free domain from freenom.com. Quick tip, if you want one, write out the full domain in the domain search bar instead of just the first part (i.e. example.tk instead of just example). Once I had done that, I signed up for a free cloudflare acount, as they have a better domain-name-manegment-system-thing.</description>
     </item>

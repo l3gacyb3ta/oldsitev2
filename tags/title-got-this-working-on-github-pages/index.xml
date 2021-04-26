@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>title: Got this working on github pages! on l3gacy&#39;s b3ta</title>
-    <link>https://l3gacy.tk/tags/title-got-this-working-on-github-pages/</link>
-    <description>Recent content in title: Got this working on github pages! on l3gacy&#39;s b3ta</description>
+    <title>title: Got this working on github pages! on Raleigh Wise</title>
+    <link>https://raleighwi.se/tags/title-got-this-working-on-github-pages/</link>
+    <description>Recent content in title: Got this working on github pages! on Raleigh Wise</description>
     <image>
-      <url>https://l3gacy.tk/papermod-cover.png</url>
-      <link>https://l3gacy.tk/papermod-cover.png</link>
+      <url>https://raleighwi.se/papermod-cover.png</url>
+      <link>https://raleighwi.se/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://l3gacy.tk/tags/title-got-this-working-on-github-pages/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://raleighwi.se/tags/title-got-this-working-on-github-pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Got this working on github pages!</title>
-      <link>https://l3gacy.tk/posts/got-this-working-on-github-pages/</link>
+      <link>https://raleighwi.se/posts/got-this-working-on-github-pages/</link>
       <pubDate>Tue, 13 Apr 2021 15:28:00 +0000</pubDate>
       
-      <guid>https://l3gacy.tk/posts/got-this-working-on-github-pages/</guid>
+      <guid>https://raleighwi.se/posts/got-this-working-on-github-pages/</guid>
       <description>Well, this was a pain in the butt.
 I didn&amp;rsquo;t feel like messing with github actions again, as I hate that thing with a passion. So I was looking through the hexo docs and I found a usefull one-command deploy option. All you have to do is add this little tidbit to your _config.yaml.
  deploy: type: git repo: https://github.com/&amp;lt;username&amp;gt;/&amp;lt;project&amp;gt; # example, https://github.com/l3gacyb3ta/l3gacyb3ta.github.io branch: &amp;lt;whatever branch you use&amp;gt; You also have to install hexo-deployer-git, which is simple, just use this:</description>

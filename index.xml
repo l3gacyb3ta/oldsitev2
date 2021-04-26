@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>l3gacy&#39;s b3ta</title>
-    <link>https://l3gacy.tk/</link>
-    <description>Recent content on l3gacy&#39;s b3ta</description>
+    <title>Raleigh Wise</title>
+    <link>https://raleighwi.se/</link>
+    <description>Recent content on Raleigh Wise</description>
     <image>
-      <url>https://l3gacy.tk/papermod-cover.png</url>
-      <link>https://l3gacy.tk/papermod-cover.png</link>
+      <url>https://raleighwi.se/papermod-cover.png</url>
+      <link>https://raleighwi.se/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://l3gacy.tk/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://raleighwi.se/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>XKCD Explainer Button</title>
-      <link>https://l3gacy.tk/projects/xkcd-button/</link>
+      <link>https://raleighwi.se/projects/xkcd-button/</link>
       <pubDate>Fri, 23 Apr 2021 19:46:30 -0400</pubDate>
       
-      <guid>https://l3gacy.tk/projects/xkcd-button/</guid>
+      <guid>https://raleighwi.se/projects/xkcd-button/</guid>
       <description>A silly little project to learn about extensions.</description>
     </item>
     
     <item>
       <title>Stylegan2, Machine Minds, &amp; Science Communication</title>
-      <link>https://l3gacy.tk/posts/stylegan-machine-minds-and-scicoms/</link>
+      <link>https://raleighwi.se/posts/stylegan-machine-minds-and-scicoms/</link>
       <pubDate>Fri, 16 Apr 2021 18:42:52 +0000</pubDate>
       
-      <guid>https://l3gacy.tk/posts/stylegan-machine-minds-and-scicoms/</guid>
+      <guid>https://raleighwi.se/posts/stylegan-machine-minds-and-scicoms/</guid>
       <description>AI is becoming a more and more important topic in our daily lives, and understanding has stayed about the same. I&amp;rsquo;m here to fix that! One of the very interesting new types of AI are GANs. For this article I&amp;rsquo;ll be talking about one Stylegan2. Stylegan2 is a huge leap in image generation GANs. I know I am a bit behind on this whole shebang, but I just found out that I could run Stylegan2 myself, so I wanted to write about it!</description>
     </item>
     
     <item>
       <title>domain name, finaly</title>
-      <link>https://l3gacy.tk/posts/domain-name-finaly/</link>
+      <link>https://raleighwi.se/posts/domain-name-finaly/</link>
       <pubDate>Wed, 14 Apr 2021 11:05:28 +0000</pubDate>
       
-      <guid>https://l3gacy.tk/posts/domain-name-finaly/</guid>
+      <guid>https://raleighwi.se/posts/domain-name-finaly/</guid>
       <description>So, I finally got l3gacy.tk linked to the github pages! The process was a bit confusing, probably because I&amp;rsquo;ve never done something like this before, but here&amp;rsquo;s the steps I took.
 First I got a free domain from freenom.com. Quick tip, if you want one, write out the full domain in the domain search bar instead of just the first part (i.e. example.tk instead of just example). Once I had done that, I signed up for a free cloudflare acount, as they have a better domain-name-manegment-system-thing.</description>
     </item>
     
     <item>
       <title>about me</title>
-      <link>https://l3gacy.tk/aboutme/</link>
+      <link>https://raleighwi.se/aboutme/</link>
       <pubDate>Tue, 13 Apr 2021 20:12:54 +0000</pubDate>
       
-      <guid>https://l3gacy.tk/aboutme/</guid>
+      <guid>https://raleighwi.se/aboutme/</guid>
       <description>Hello! I&amp;rsquo;m Raleigh (he/they), (aka l3gacy, or l3gacyb3ta, or l3gacy.b3ta, etc&amp;hellip;), and this is my homepage! (Sounds like I&amp;rsquo;m on MySpace lol)
 My blog is in the nav bar on top, and my contacts can be found under the contacts section in the nav bar.
 I&amp;rsquo;m very intrested in stuff like cybersecurity, cryptocurrencies, and musicals. I plan on going into a cybersecurity career at some point, so that&amp;rsquo;s probably gonna be a lot of that on here.</description>
@@ -50,10 +50,10 @@ I&amp;rsquo;m very intrested in stuff like cybersecurity, cryptocurrencies, and 
     
     <item>
       <title>Got this working on github pages!</title>
-      <link>https://l3gacy.tk/posts/got-this-working-on-github-pages/</link>
+      <link>https://raleighwi.se/posts/got-this-working-on-github-pages/</link>
       <pubDate>Tue, 13 Apr 2021 15:28:00 +0000</pubDate>
       
-      <guid>https://l3gacy.tk/posts/got-this-working-on-github-pages/</guid>
+      <guid>https://raleighwi.se/posts/got-this-working-on-github-pages/</guid>
       <description>Well, this was a pain in the butt.
 I didn&amp;rsquo;t feel like messing with github actions again, as I hate that thing with a passion. So I was looking through the hexo docs and I found a usefull one-command deploy option. All you have to do is add this little tidbit to your _config.yaml.
  deploy: type: git repo: https://github.com/&amp;lt;username&amp;gt;/&amp;lt;project&amp;gt; # example, https://github.com/l3gacyb3ta/l3gacyb3ta.github.io branch: &amp;lt;whatever branch you use&amp;gt; You also have to install hexo-deployer-git, which is simple, just use this:</description>
@@ -61,38 +61,38 @@ I didn&amp;rsquo;t feel like messing with github actions again, as I hate that t
     
     <item>
       <title>ethereum &amp; marshy, a new project!</title>
-      <link>https://l3gacy.tk/posts/ethereummarshyanewproject/</link>
+      <link>https://raleighwi.se/posts/ethereummarshyanewproject/</link>
       <pubDate>Sat, 13 Mar 2021 14:48:01 +0000</pubDate>
       
-      <guid>https://l3gacy.tk/posts/ethereummarshyanewproject/</guid>
+      <guid>https://raleighwi.se/posts/ethereummarshyanewproject/</guid>
       <description>So a while back I was asked by my dad, &amp;ldquo;What does BitCoin have to do with these computer parts shortages?&amp;quot; Well I knew the basics of the blockchain idea, but I didn&#39;t know the specifics. So after a bit of googling I found out and that was that. Now a few days later I saw a video in my YouTube recommended feed: &amp;ldquo;Programming the blockchain with Ethereum!&amp;rdquo; or something like that.</description>
     </item>
     
     <item>
       <title>images made by writing bots?</title>
-      <link>https://l3gacy.tk/posts/imagesmadebywritingbots/</link>
+      <link>https://raleighwi.se/posts/imagesmadebywritingbots/</link>
       <pubDate>Thu, 18 Feb 2021 00:04:50 +0000</pubDate>
       
-      <guid>https://l3gacy.tk/posts/imagesmadebywritingbots/</guid>
+      <guid>https://raleighwi.se/posts/imagesmadebywritingbots/</guid>
       <description>~Soo~ today we have something a tad bit more complicated, so first I&#39;ll introduce a few concepts and tools:
 1\. Markov chains: From simple.wikipedia.org: &amp;ldquo;A Markov chain is a model of some random process that happens over time. Markov chains are called that because they follow a rule called the Markov property. The Markov property says that whatever happens next in a process only depends on how it is right now (the state).</description>
     </item>
     
     <item>
       <title>better search for windows</title>
-      <link>https://l3gacy.tk/posts/bettersearchforwindows/</link>
+      <link>https://raleighwi.se/posts/bettersearchforwindows/</link>
       <pubDate>Wed, 20 Jan 2021 22:49:27 +0000</pubDate>
       
-      <guid>https://l3gacy.tk/posts/bettersearchforwindows/</guid>
+      <guid>https://raleighwi.se/posts/bettersearchforwindows/</guid>
       <description>A better search for Windows 10, the old one was slow.</description>
     </item>
     
     <item>
       <title>Welcome!</title>
-      <link>https://l3gacy.tk/posts/welcome/</link>
+      <link>https://raleighwi.se/posts/welcome/</link>
       <pubDate>Fri, 15 Jan 2021 01:33:51 +0000</pubDate>
       
-      <guid>https://l3gacy.tk/posts/welcome/</guid>
+      <guid>https://raleighwi.se/posts/welcome/</guid>
       <description>There&amp;rsquo;s not much here yet! But soon there will be!
 To check out the source code for this whole shebang, look for the blog repo in my GitHub! The link is in contacts.
 -l3gacy
@@ -101,10 +101,10 @@ Update: Old blog posts are now in!</description>
     
     <item>
       <title>mac OS X .... in a VM‽</title>
-      <link>https://l3gacy.tk/posts/macosxinavm/</link>
+      <link>https://raleighwi.se/posts/macosxinavm/</link>
       <pubDate>Tue, 22 Dec 2020 22:45:47 +0000</pubDate>
       
-      <guid>https://l3gacy.tk/posts/macosxinavm/</guid>
+      <guid>https://raleighwi.se/posts/macosxinavm/</guid>
       <description>You may be thinking &amp;ldquo;Why is OS X so intresting?&amp;rdquo; Well this is intresting because it&#39;s running by a VM!
 Firstly, you may be asking yourselves &amp;ldquo;Why would you do this?&amp;rdquo; or &amp;ldquo;What is the point of this?&amp;rdquo;.
 The point is, I can, so why not\xe2\x80\xbd
@@ -114,10 +114,10 @@ First, I installed the &amp;ldquo;Update to Catalina&amp;rdquo; app on my dad&#3
     
     <item>
       <title>beach</title>
-      <link>https://l3gacy.tk/posts/beach/</link>
+      <link>https://raleighwi.se/posts/beach/</link>
       <pubDate>Mon, 20 Jul 2020 21:40:04 +0000</pubDate>
       
-      <guid>https://l3gacy.tk/posts/beach/</guid>
+      <guid>https://raleighwi.se/posts/beach/</guid>
       <description>First render: The idea for this was a volleyball scene on a beach island.
 This was rendered in TV PAL 16:9.
 
@@ -132,10 +132,10 @@ changed the plane on the bottom to several squares, and added a skybox + water.<
     
     <item>
       <title>motion tracking</title>
-      <link>https://l3gacy.tk/posts/motiontracking/</link>
+      <link>https://raleighwi.se/posts/motiontracking/</link>
       <pubDate>Wed, 24 Jun 2020 21:46:52 +0000</pubDate>
       
-      <guid>https://l3gacy.tk/posts/motiontracking/</guid>
+      <guid>https://raleighwi.se/posts/motiontracking/</guid>
       <description>I tracked approx 20 points in the image.
   I extrapolated the movement of the camera.
   I modeled the window and added the macbook and the drawers.
@@ -145,19 +145,19 @@ changed the plane on the bottom to several squares, and added a skybox + water.<
     
     <item>
       <title>rigging, not the election</title>
-      <link>https://l3gacy.tk/posts/riggingnottheelection/</link>
+      <link>https://raleighwi.se/posts/riggingnottheelection/</link>
       <pubDate>Wed, 17 Jun 2020 21:48:44 +0000</pubDate>
       
-      <guid>https://l3gacy.tk/posts/riggingnottheelection/</guid>
+      <guid>https://raleighwi.se/posts/riggingnottheelection/</guid>
       <description>V1.0 Walk cycle animation done based on traditonal walk cycle animation.</description>
     </item>
     
     <item>
       <title>threadripper ad</title>
-      <link>https://l3gacy.tk/posts/threadripperad/</link>
+      <link>https://raleighwi.se/posts/threadripperad/</link>
       <pubDate>Tue, 21 Apr 2020 21:43:10 +0000</pubDate>
       
-      <guid>https://l3gacy.tk/posts/threadripperad/</guid>
+      <guid>https://raleighwi.se/posts/threadripperad/</guid>
       <description>  First I modeled the Treadripper CPU from AMD.
   Then, I used rigidbody physics to simulate them bouncing away.
   I used Windows Video Editor to sync the audio of the music I stiched together to the AMD text.
