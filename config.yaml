@@ -32,6 +32,9 @@ languages:
                 - name: Projects
                   url: projects
                   weight: 9
+                - name: Links
+                  url: https://ll.raleighwi.se
+                  weight: 12
 
 
 outputs:
