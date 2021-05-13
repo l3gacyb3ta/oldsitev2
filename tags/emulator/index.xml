@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>emulator on Raleigh Wise</title>
+    <link>https://raleighwi.se/tags/emulator/</link>
+    <description>Recent content in emulator on Raleigh Wise</description>
+    <image>
+      <url>https://raleighwi.se/papermod-cover.png</url>
+      <link>https://raleighwi.se/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://raleighwi.se/tags/emulator/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Super16</title>
+      <link>https://raleighwi.se/posts/super16/</link>
+      <pubDate>Thu, 13 May 2021 15:53:43 +0000</pubDate>
+      
+      <guid>https://raleighwi.se/posts/super16/</guid>
+      <description>Super16&amp;hellip; What is it? Super16 is my custom architechture for a theoretical CPU. It&amp;rsquo;s on github! I have designed the thing from the ground up, so here&amp;rsquo;s an overview:
+Features:  Text-out support 7 16-bit registers Binary compilation 16-bit data on every instruction Built-in screen drawing (pixel by pixel)  Missing stuff:  Any support for memory, I mean who needs that?  Basic design: One instruction is composed of 32 bits, making up 3 catagories; Opcode, Register and data.</description>
+    </item>
+    
+  </channel>
+</rss>

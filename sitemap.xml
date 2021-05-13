@@ -2,22 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://raleighwi.se/projects/</loc>
-    <lastmod>2021-04-23T19:46:30-04:00</lastmod>
+    <loc>https://raleighwi.se/tags/cpu/</loc>
+    <lastmod>2021-05-13T15:53:43+00:00</lastmod>
+  </url><url>
+    <loc>https://raleighwi.se/tags/emulator/</loc>
+    <lastmod>2021-05-13T15:53:43+00:00</lastmod>
+  </url><url>
+    <loc>https://raleighwi.se/tags/isa/</loc>
+    <lastmod>2021-05-13T15:53:43+00:00</lastmod>
+  </url><url>
+    <loc>https://raleighwi.se/posts/</loc>
+    <lastmod>2021-05-13T15:53:43+00:00</lastmod>
   </url><url>
     <loc>https://raleighwi.se/</loc>
+    <lastmod>2021-05-13T15:53:43+00:00</lastmod>
+  </url><url>
+    <loc>https://raleighwi.se/tags/s16/</loc>
+    <lastmod>2021-05-13T15:53:43+00:00</lastmod>
+  </url><url>
+    <loc>https://raleighwi.se/posts/super16/</loc>
+    <lastmod>2021-05-13T15:53:43+00:00</lastmod>
+  </url><url>
+    <loc>https://raleighwi.se/tags/</loc>
+    <lastmod>2021-05-13T15:53:43+00:00</lastmod>
+  </url><url>
+    <loc>https://raleighwi.se/projects/</loc>
     <lastmod>2021-04-23T19:46:30-04:00</lastmod>
   </url><url>
     <loc>https://raleighwi.se/projects/xkcd-button/</loc>
     <lastmod>2021-04-23T19:46:30-04:00</lastmod>
   </url><url>
-    <loc>https://raleighwi.se/posts/</loc>
-    <lastmod>2021-04-16T18:42:52+00:00</lastmod>
-  </url><url>
     <loc>https://raleighwi.se/posts/stylegan-machine-minds-and-scicoms/</loc>
-    <lastmod>2021-04-16T18:42:52+00:00</lastmod>
-  </url><url>
-    <loc>https://raleighwi.se/tags/</loc>
     <lastmod>2021-04-16T18:42:52+00:00</lastmod>
   </url><url>
     <loc>https://raleighwi.se/tags/title-stylegan2-machine-minds-science-communication/</loc>
@@ -109,8 +124,6 @@
   </url><url>
     <loc>https://raleighwi.se/tags/title-threadripper-ad/</loc>
     <lastmod>2020-04-21T21:43:10+00:00</lastmod>
-  </url><url>
-    <loc>https://raleighwi.se/posts/super16/</loc>
   </url><url>
     <loc>https://raleighwi.se/archives/</loc>
   </url><url>
