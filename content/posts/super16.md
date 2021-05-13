@@ -1,3 +1,27 @@
+---
+title: "Super16"
+date: 2021-05-13 15:53:43
+# weight: 1
+# aliases: ["/"]
+tags: ["cpu", "emulator", "ISA", "S16"]
+author: "l3gacy"
+# author: ["Me", "You"] # multiple authors
+showToc: true
+TocOpen: false
+draft: false
+hidemeta: false
+comments: false
+description: ""
+disableHLJS: false # to disable highlightjs
+disableShare: false
+hideSummary: false
+
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowToc: true # table of contents
+---
+
 # Super16... What is it?
 Super16 is my custom architechture for a theoretical CPU. It's on [github](https://github.com/l3gacyb3ta/super16)! 
 I have designed the thing from the ground up, so here's an overview:  
