@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>git on Raleigh Wise</title>
+    <link>https://raleighwi.se/tags/git/</link>
+    <description>Recent content in git on Raleigh Wise</description>
+    <image>
+      <url>https://raleighwi.se/papermod-cover.png</url>
+      <link>https://raleighwi.se/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://raleighwi.se/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Forestry, a git-based CMS</title>
+      <link>https://raleighwi.se/posts/forestry-a-git-based-cms/</link>
+      <pubDate>Fri, 14 May 2021 14:43:03 +0000</pubDate>
+      
+      <guid>https://raleighwi.se/posts/forestry-a-git-based-cms/</guid>
+      <description>So as those who have been following me may know, I keep just upgrading my blog while not really writing for it. The problem with writing for this blog is that, as much as I love VSCode, it&amp;rsquo;s not the most effective for blog post writing. So I have been shopping around for a CMS that&amp;rsquo;ll work with my existing blog because I do not want to migrate my blog again.</description>
+    </item>
+    
+  </channel>
+</rss>

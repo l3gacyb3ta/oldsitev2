@@ -10,6 +10,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://raleighwi.se/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Forestry, a git-based CMS</title>
+      <link>https://raleighwi.se/posts/forestry-a-git-based-cms/</link>
+      <pubDate>Fri, 14 May 2021 14:43:03 +0000</pubDate>
+      
+      <guid>https://raleighwi.se/posts/forestry-a-git-based-cms/</guid>
+      <description>So as those who have been following me may know, I keep just upgrading my blog while not really writing for it. The problem with writing for this blog is that, as much as I love VSCode, it&amp;rsquo;s not the most effective for blog post writing. So I have been shopping around for a CMS that&amp;rsquo;ll work with my existing blog because I do not want to migrate my blog again.</description>
+    </item>
+    
+    <item>
       <title>Annoucing Super16</title>
       <link>https://raleighwi.se/posts/super16/</link>
       <pubDate>Thu, 13 May 2021 15:53:43 +0000</pubDate>

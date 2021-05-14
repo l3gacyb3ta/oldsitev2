@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://raleighwi.se/tags/blog/</loc>
+    <lastmod>2021-05-14T14:43:03+00:00</lastmod>
+  </url><url>
+    <loc>https://raleighwi.se/tags/cms/</loc>
+    <lastmod>2021-05-14T14:43:03+00:00</lastmod>
+  </url><url>
+    <loc>https://raleighwi.se/posts/forestry-a-git-based-cms/</loc>
+    <lastmod>2021-05-14T14:43:03+00:00</lastmod>
+  </url><url>
+    <loc>https://raleighwi.se/tags/git/</loc>
+    <lastmod>2021-05-14T14:43:03+00:00</lastmod>
+  </url><url>
+    <loc>https://raleighwi.se/posts/</loc>
+    <lastmod>2021-05-14T14:43:03+00:00</lastmod>
+  </url><url>
+    <loc>https://raleighwi.se/</loc>
+    <lastmod>2021-05-14T14:43:03+00:00</lastmod>
+  </url><url>
+    <loc>https://raleighwi.se/tags/</loc>
+    <lastmod>2021-05-14T14:43:03+00:00</lastmod>
+  </url><url>
     <loc>https://raleighwi.se/posts/super16/</loc>
     <lastmod>2021-05-13T15:53:43+00:00</lastmod>
   </url><url>
@@ -14,22 +35,13 @@
     <loc>https://raleighwi.se/tags/isa/</loc>
     <lastmod>2021-05-13T15:53:43+00:00</lastmod>
   </url><url>
-    <loc>https://raleighwi.se/posts/</loc>
-    <lastmod>2021-05-13T15:53:43+00:00</lastmod>
-  </url><url>
     <loc>https://raleighwi.se/projects/</loc>
-    <lastmod>2021-05-13T15:53:43+00:00</lastmod>
-  </url><url>
-    <loc>https://raleighwi.se/</loc>
     <lastmod>2021-05-13T15:53:43+00:00</lastmod>
   </url><url>
     <loc>https://raleighwi.se/tags/s16/</loc>
     <lastmod>2021-05-13T15:53:43+00:00</lastmod>
   </url><url>
     <loc>https://raleighwi.se/projects/super16/</loc>
-    <lastmod>2021-05-13T15:53:43+00:00</lastmod>
-  </url><url>
-    <loc>https://raleighwi.se/tags/</loc>
     <lastmod>2021-05-13T15:53:43+00:00</lastmod>
   </url><url>
     <loc>https://raleighwi.se/projects/xkcd-button/</loc>
