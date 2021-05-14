@@ -11,18 +11,21 @@ fields:
 - type: list
   name: tags
   label: tags
+  config:
+    use_select: false
 - type: text
   name: author
   label: author
+  default: l3gacy
 - type: boolean
   name: showToc
-  label: showToc
+  label: Show table of contents
 - type: boolean
   name: TocOpen
   label: TocOpen
 - type: boolean
   name: hidemeta
-  label: hidemeta
+  label: Hide metadata
 - type: boolean
   name: comments
   label: comments
@@ -31,22 +34,19 @@ fields:
   label: description
 - type: boolean
   name: disableHLJS
-  label: disableHLJS
+  label: Disable highlighting
 - type: boolean
   name: disableShare
-  label: disableShare
+  label: Disable Share buttons
 - type: boolean
   name: hideSummary
-  label: hideSummary
+  label: Hide the summary
 - type: boolean
   name: ShowReadingTime
-  label: ShowReadingTime
+  label: Show Reading Time indicator
 - type: boolean
   name: ShowBreadCrumbs
-  label: ShowBreadCrumbs
+  label: Show Bread Crumbs
 - type: boolean
   name: ShowPostNavLinks
-  label: ShowPostNavLinks
-- type: boolean
-  name: ShowToc
-  label: ShowToc
+  label: Show Post Navigation Links
