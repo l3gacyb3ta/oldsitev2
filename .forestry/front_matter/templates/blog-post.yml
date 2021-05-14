@@ -55,3 +55,5 @@ fields:
 - type: boolean
   name: ShowPostNavLinks
   label: Show Post Navigation Links
+pages:
+- content/posts/forestry-a-git-based-cms.md
