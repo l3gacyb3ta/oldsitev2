@@ -21,12 +21,14 @@ fields:
 - type: boolean
   name: showToc
   label: Show table of contents
+  default: true
 - type: boolean
   name: TocOpen
   label: TocOpen
 - type: boolean
   name: hidemeta
   label: Hide metadata
+  default: true
 - type: boolean
   name: comments
   label: comments
@@ -45,9 +47,11 @@ fields:
 - type: boolean
   name: ShowReadingTime
   label: Show Reading Time indicator
+  default: true
 - type: boolean
   name: ShowBreadCrumbs
   label: Show Bread Crumbs
+  default: true
 - type: boolean
   name: ShowPostNavLinks
   label: Show Post Navigation Links
