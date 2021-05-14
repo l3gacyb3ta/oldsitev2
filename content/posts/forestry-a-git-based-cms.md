@@ -9,7 +9,6 @@ date = 2021-05-14T14:43:03Z
 description = ""
 disableHLJS = false
 disableShare = false
-draft = true
 hideSummary = false
 hidemeta = true
 showToc = false
@@ -26,4 +25,12 @@ Forestry is a git-based CMS that uses the markdown files that already exist in m
 
 ^ That's me writing this post!
 
-Forestry is cool because it can manage a whole bunch of stuff. That bar you see in the middle-left of the screen is actually the front matter of this post! Forestry makes front matter super easy, so that's one thing I don't need to worry about anymore.
+Forestry is cool because it can manage a whole bunch of stuff. That bar you see in the middle-left of the screen is actually the front matter of this post! Forestry makes front matter super easy, so that's one thing I don't need to worry about anymore. It can also manage the media of the blog, you can specify the location of the files in your repo.
+
+Speaking of repos, the git integration is amazing. I personally use GitHub for my open-source needs, so my website is hosted on GitHub Pages. Forestry meshes amazingly with basically any git solution, so it of course works great with my blog. 
+
+Basically what I'm saying is that I have fallen in love with another piece of software.
+
+Thanks for reading,
+
+\- l3gacy
