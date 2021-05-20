@@ -31,3 +31,28 @@ So I just took the code I had written earlier and adapted it into [Multilink](ht
 * I also wanted to implement analytics, which meant I had to find a modern _and_ open-source analytics system.
 
 ## Analytics:
+
+For the analytics system, I chose [umami](https://umami.ls). Umami is open-source, and it also runs on Next.js, so it felt right for this project. In order to deploy it, I had to get a Postgres database running on [railway.app](https://railway.app), and then I just clicked umami's _Deploy to Vercel_ button, set some environment variables, and we were off to the races! Umami can track a large array of statistics, such as where people are from, and what devices they are using.
+
+## The main implementation
+
+The main implementation uses this tech stack:
+
+    +----------------+  +---------------+
+    |                |  |               |
+    |  Next.js       |  |    Umami      |
+    |  Multilink     |  |               |
+    +--------+-------+  +------+--------+
+             |                 |
+    +--------v--------+--------v--------+
+    |                 |                 |
+    |              Vercel               |
+    |                 |                 |
+    +--------+--------+--------+--------+
+             |                 |
+             |                 |
+    +--------v-------+  +------v--------+
+    |                |  |               |
+    | Airtable table |  |  Railway.app  |
+    |                |  |               |
+    +----------------+  +---------------+
