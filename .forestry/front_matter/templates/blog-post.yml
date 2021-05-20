@@ -56,4 +56,5 @@ fields:
   name: ShowPostNavLinks
   label: Show Post Navigation Links
 pages:
+- content/posts/building-a-next.js-airtable-singlelink-clone.md
 - content/posts/forestry-a-git-based-cms.md
