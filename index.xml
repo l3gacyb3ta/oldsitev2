@@ -10,6 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://raleighwi.se/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Building a Next.js &#43; Airtable singlelink clone.</title>
+      <link>https://raleighwi.se/posts/building-a-next.js-airtable-singlelink-clone/</link>
+      <pubDate>Thu, 20 May 2021 13:27:58 +0000</pubDate>
+      
+      <guid>https://raleighwi.se/posts/building-a-next.js-airtable-singlelink-clone/</guid>
+      <description>Backstory Recently, something fun happened! I got my first real commission of a website, and it just so happened that I had basically written it earlier that day. I had been building a site for a hackathon I might run at some point, and I wanted to be able to have it not be hard-coded and be more user-friendly than mdx.
+I had recently learned about Airtable thanks to Hackclub, so I thought why not use this?</description>
+    </item>
+    
+    <item>
       <title>Forestry, a git-based CMS</title>
       <link>https://raleighwi.se/posts/forestry-a-git-based-cms/</link>
       <pubDate>Fri, 14 May 2021 14:43:03 +0000</pubDate>
