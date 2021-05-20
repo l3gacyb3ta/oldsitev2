@@ -9,7 +9,6 @@ date = 2021-05-20T13:27:58Z
 description = ""
 disableHLJS = false
 disableShare = false
-draft = true
 hideSummary = false
 hidemeta = true
 showToc = true
@@ -25,12 +24,7 @@ I had recently learned about [Airtable](https://airtable.com) thanks to [Hackclu
 
 So I just took the code I had written earlier and adapted it into [Multilink](https://github.com/l3gacyb3ta/multilink)! Obviously, it's FOSS, so it's on GitHub!
 
-## Main Challenges:
-
-* Because this is a real person I'm building a website for, I had to include some security features, which meant I had to figure out .env files for Next.js.
-* I also wanted to implement analytics, which meant I had to find a modern _and_ open-source analytics system.
-
-## Analytics:
+## Analytics
 
 For the analytics system, I chose [umami](https://umami.ls). Umami is open-source, and it also runs on Next.js, so it felt right for this project. In order to deploy it, I had to get a Postgres database running on [railway.app](https://railway.app), and then I just clicked umami's _Deploy to Vercel_ button, set some environment variables, and we were off to the races! Umami can track a large array of statistics, such as where people are from, and what devices they are using.
 
@@ -40,7 +34,7 @@ The main implementation uses this tech stack:
 
     +----------------+  +---------------+
     |                |  |               |
-    |  Next.js       |  |    Umami      |
+    |  Next.js       +-->    Umami      |
     |  Multilink     |  |               |
     +--------+-------+  +------+--------+
              |                 |
@@ -56,3 +50,22 @@ The main implementation uses this tech stack:
     | Airtable table |  |  Railway.app  |
     |                |  |               |
     +----------------+  +---------------+
+
+(I made that drawing using [ASCIIFlow](https://asciiflow.com/#/))
+
+As you can see, both apps run on Vercel and connect to their respective backend and the main Multilink app connects back to umami for analytics.
+
+Not shown in the tech stack are the docs I had to make, as my friend isn't as technically savvy as I am. For those, I used [Notion](https://notion.so) and just shared the Notion link.
+
+## Main Challenges
+
+* Because this is a real person I'm building a website for, I had to include some security features, which meant I had to figure out .env files for Next.js.
+* I also wanted to implement analytics, which meant I had to find a modern _and_ open-source analytics system.
+
+## Wrap-up
+
+Thanks for reading, this was a really fun project to make, and I'm still loving forestry for the post-writing!
+
+Much love,
+
+\- l3gacy
